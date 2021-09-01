@@ -1,0 +1,4 @@
+#line 1 "device/google/wahoo/sepolicy/private/service_contexts"
+qti.ims.ext                                          u:object_r:radio_service:s0
+cneservice                                           u:object_r:cne_service:s0
+qchook                                               u:object_r:qchook_service:s0
