@@ -1,0 +1,5 @@
+touch_core_base.ko
+ftm4.ko
+sw49408.ko
+lge_battery.ko
+wlan.ko
